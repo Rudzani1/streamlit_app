@@ -19,10 +19,10 @@ with st.sidebar:
 
 if (selected == "Diabetese Prediction"):
 
-  # page title
+  
   st.title("Smart Diabetes Assistant")
 
-  # getting the input data from the user
+  
   col1, col2, col3 = st.columns(3)
 
   with col1:
